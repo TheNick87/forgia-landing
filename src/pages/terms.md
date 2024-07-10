@@ -3,118 +3,71 @@ title: 'Terms and Conditions'
 layout: '~/layouts/MarkdownLayout.astro'
 ---
 
-_Last updated_: January 06, 2023
+_Last updated_: July 10, 2024
 
-Please read these terms and conditions carefully before using Our Service.
+# Termini e Condizioni
 
-## Interpretation and Definitions
+## Introduzione
 
-### Interpretation
+Benvenuto su Forgia Labs - https://forgialabs.com. Questi Termini e Condizioni ("Termini") regolano l'uso del sito web Forgia Labs - https://forgialabs.com (il "Sito"). Accedendo o utilizzando il Sito, accetti di essere vincolato da questi Termini. Se non accetti questi Termini, ti preghiamo di non utilizzare il Sito.
 
-The words of which the initial letter is capitalized have meanings defined under the following conditions. The following definitions shall have the same meaning regardless of whether they appear in singular or in plural.
+### 1. Accettazione dei Termini
 
-### Definitions
+Utilizzando il Sito, accetti di rispettare e di essere vincolato da questi Termini e da tutte le leggi e regolamenti applicabili. Se non sei d'accordo con uno qualsiasi di questi Termini, sei vietato dall'utilizzare o dall'accedere a questo Sito.
 
-For the purposes of these Terms and Conditions:
+### 2. Modifiche ai Termini
 
-- **Affiliate** means an entity that controls, is controlled by or is under common control with a party, where "control" means ownership of 50% or more of the shares, equity interest or other securities entitled to vote for election of directors or other managing authority.
+Forgia Labs - https://forgialabs.com si riserva il diritto di modificare o aggiornare questi Termini in qualsiasi momento senza preavviso. È tua responsabilità controllare periodicamente questi Termini per eventuali modifiche. L'uso continuato del Sito dopo la pubblicazione delle modifiche costituirà l'accettazione di tali modifiche.
 
-- **Country** refers to: California, United States
+### 3. Uso del Sito
 
-- **Company** (referred to as either "the Company", "We", "Us" or "Our" in this Agreement) refers to AstroWind LLC, 1 Cupertino, CA 95014.
+a. Licenza d'Uso: Concediamo una licenza limitata, non esclusiva, non trasferibile e revocabile per accedere e utilizzare il Sito per uso personale e non commerciale.
 
-- **Device** means any device that can access the Service such as a computer, a cellphone or a digital tablet.
+b. Restrizioni d'Uso: Non è consentito:
 
-- **Service** refers to the Website.
+Modificare, copiare, distribuire, trasmettere, visualizzare, eseguire, riprodurre, pubblicare, concedere in licenza, creare opere derivate, trasferire o vendere informazioni, software, prodotti o servizi ottenuti dal Sito.
+Utilizzare il Sito per qualsiasi scopo illegale o proibito da questi Termini.
+Tentare di ottenere l'accesso non autorizzato a qualsiasi parte del Sito o a qualsiasi sistema o rete collegata al Sito.
 
-- **Terms and Conditions** (also referred as "Terms") mean these Terms and Conditions that form the entire agreement between You and the Company regarding the use of the Service. This Terms and Conditions agreement is a Demo.
+### 4. Proprietà Intellettuale
 
-- **Third-party Social Media Service** means any services or content (including data, information, products or services) provided by a third-party that may be displayed, included or made available by the Service.
+Tutti i contenuti presenti sul Sito, inclusi ma non limitati a testo, grafica, loghi, icone di pulsanti, immagini, clip audio, download digitali, compilation di dati e software, sono di proprietà di Forgia Labs - https://forgialabs.com o dei suoi fornitori di contenuti e sono protetti dalle leggi sul copyright internazionali e degli Stati Uniti.
 
-- **Website** refers to AstroWind, accessible from [https://astrowind.vercel.app](https://astrowind.vercel.app)
+### 5. Contenuti Generati dagli Utenti
 
-- **You** means the individual accessing or using the Service, or the company, or other legal entity on behalf of which such individual is accessing or using the Service, as applicable.
+a. Licenza: Quando pubblichi contenuti sul Sito, concedi a Forgia Labs - https://forgialabs.com una licenza non esclusiva, gratuita, perpetua, irrevocabile e sublicenziabile per usare, riprodurre, modificare, adattare, pubblicare, tradurre, creare opere derivate, distribuire e visualizzare tali contenuti in tutto il mondo su qualsiasi supporto.
 
-## Acknowledgment
+b. Responsabilità dei Contenuti: Sei l'unico responsabile per tutti i contenuti che carichi, pubblichi, invii per email, trasmetti o rendi altrimenti disponibili tramite il Sito. Forgia Labs - https://forgialabs.com non controlla i contenuti inviati dagli utenti e non garantisce l'accuratezza, l'integrità o la qualità di tali contenuti.
 
-These are the Terms and Conditions governing the use of this Service and the agreement that operates between You and the Company. These Terms and Conditions set out the rights and obligations of all users regarding the use of the Service.
+### 6. Limitazione di Responsabilità
 
-Your access to and use of the Service is conditioned on Your acceptance of and compliance with these Terms and Conditions. These Terms and Conditions apply to all visitors, users and others who access or use the Service.
+In nessun caso Forgia Labs - https://forgialabs.com o i suoi affiliati saranno responsabili per danni diretti, indiretti, incidentali, speciali o consequenziali derivanti dall'uso o dall'incapacità di utilizzare il Sito, anche se Forgia Labs - https://forgialabs.com è stato avvisato della possibilità di tali danni.
 
-By accessing or using the Service You agree to be bound by these Terms and Conditions. If You disagree with any part of these Terms and Conditions then You may not access the Service.
+### 7. Manleva
 
-You represent that you are over the age of 18\. The Company does not permit those under 18 to use the Service.
+Accetti di manlevare e tenere indenni Forgia Labs - https://forgialabs.com e i suoi affiliati da qualsiasi reclamo, danno, obbligo, perdita, responsabilità, costo o debito e spesa (incluse ma non limitate alle spese legali) derivanti da:
 
-Your access to and use of the Service is also conditioned on Your acceptance of and compliance with the Privacy Policy of the Company. Our Privacy Policy describes Our policies and procedures on the collection, use and disclosure of Your personal information when You use the Application or the Website and tells You about Your privacy rights and how the law protects You. Please read Our Privacy Policy carefully before using Our Service.
+Il tuo uso e accesso al Sito.
+La tua violazione di qualsiasi termine di questi Termini.
+La tua violazione di qualsiasi diritto di terze parti, inclusi ma non limitati a diritti di proprietà intellettuale o privacy.
+Qualsiasi reclamo che i tuoi contenuti abbiano causato danni a terze parti.
 
-## Links to Other Websites
+### 8. Privacy
 
-Our Service may contain links to third-party web sites or services that are not owned or controlled by the Company.
+L'uso del Sito è inoltre regolato dalla nostra Informativa sulla Privacy, che è incorporata in questi Termini mediante questo riferimento. Ti preghiamo di rivedere la nostra Informativa sulla Privacy su https://forgialabs.com/privacy.
 
-The Company has no control over, and assumes no responsibility for, the content, privacy policies, or practices of any third party web sites or services. You further acknowledge and agree that the Company shall not be responsible or liable, directly or indirectly, for any damage or loss caused or alleged to be caused by or in connection with the use of or reliance on any such content, goods or services available on or through any such web sites or services.
+### 9. Legge Applicabile
 
-We strongly advise You to read the terms and conditions and privacy policies of any third-party web sites or services that You visit.
+Questi Termini sono regolati e interpretati in conformità con le leggi dello Stato italiano, senza riguardo ai principi di conflitto di leggi. Accetti irrevocabilmente di sottometterti alla giurisdizione esclusiva dei tribunali situati in Roma per la risoluzione di qualsiasi controversia che possa sorgere in relazione a questi Termini.
 
-## Termination
+### 10. Disposizioni Generali
 
-We may terminate or suspend Your access immediately, without prior notice or liability, for any reason whatsoever, including without limitation if You breach these Terms and Conditions.
+a. Intero Accordo: Questi Termini costituiscono l'intero accordo tra te e Forgia Labs - https://forgialabs.com riguardo all'uso del Sito e sostituiscono tutti i precedenti accordi scritti o orali.
 
-Upon termination, Your right to use the Service will cease immediately.
+b. Severabilità: Se una qualsiasi parte di questi Termini è ritenuta non valida o inapplicabile, tale parte sarà interpretata in modo coerente con la legge applicabile per riflettere, il più vicino possibile, le intenzioni originali delle parti, e le parti rimanenti resteranno in pieno vigore ed efficacia.
 
-## Limitation of Liability
+c. Nessuna Rinuncia: La mancata applicazione di qualsiasi diritto o disposizione di questi Termini da parte di Forgia Labs - https://forgialabs.com non costituirà una rinuncia a tale diritto o disposizione.
 
-Notwithstanding any damages that You might incur, the entire liability of the Company and any of its suppliers under any provision of this Terms and Your exclusive remedy for all of the foregoing shall be limited to the amount actually paid by You through the Service or 100 USD if You haven't purchased anything through the Service.
+## Contattaci
 
-To the maximum extent permitted by applicable law, in no event shall the Company or its suppliers be liable for any special, incidental, indirect, or consequential damages whatsoever (including, but not limited to, damages for loss of profits, loss of data or other information, for business interruption, for personal injury, loss of privacy arising out of or in any way related to the use of or inability to use the Service, third-party software and/or third-party hardware used with the Service, or otherwise in connection with any provision of this Terms), even if the Company or any supplier has been advised of the possibility of such damages and even if the remedy fails of its essential purpose.
-
-Some states do not allow the exclusion of implied warranties or limitation of liability for incidental or consequential damages, which means that some of the above limitations may not apply. In these states, each party's liability will be limited to the greatest extent permitted by law.
-
-## "AS IS" and "AS AVAILABLE" Disclaimer
-
-The Service is provided to You "AS IS" and "AS AVAILABLE" and with all faults and defects without warranty of any kind. To the maximum extent permitted under applicable law, the Company, on its own behalf and on behalf of its Affiliates and its and their respective licensors and service providers, expressly disclaims all warranties, whether express, implied, statutory or otherwise, with respect to the Service, including all implied warranties of merchantability, fitness for a particular purpose, title and non-infringement, and warranties that may arise out of course of dealing, course of performance, usage or trade practice. Without limitation to the foregoing, the Company provides no warranty or undertaking, and makes no representation of any kind that the Service will meet Your requirements, achieve any intended results, be compatible or work with any other software, applications, systems or services, operate without interruption, meet any performance or reliability standards or be error free or that any errors or defects can or will be corrected.
-
-Without limiting the foregoing, neither the Company nor any of the company's provider makes any representation or warranty of any kind, express or implied: (i) as to the operation or availability of the Service, or the information, content, and materials or products included thereon; (ii) that the Service will be uninterrupted or error-free; (iii) as to the accuracy, reliability, or currency of any information or content provided through the Service; or (iv) that the Service, its servers, the content, or e-mails sent from or on behalf of the Company are free of viruses, scripts, trojan horses, worms, malware, timebombs or other harmful components.
-
-Some jurisdictions do not allow the exclusion of certain types of warranties or limitations on applicable statutory rights of a consumer, so some or all of the above exclusions and limitations may not apply to You. But in such a case the exclusions and limitations set forth in this section shall be applied to the greatest extent enforceable under applicable law.
-
-## Governing Law
-
-The laws of the Country, excluding its conflicts of law rules, shall govern this Terms and Your use of the Service. Your use of the Application may also be subject to other local, state, national, or international laws.
-
-## Disputes Resolution
-
-If You have any concern or dispute about the Service, You agree to first try to resolve the dispute informally by contacting the Company.
-
-## For European Union (EU) Users
-
-If You are a European Union consumer, you will benefit from any mandatory provisions of the law of the country in which you are resident in.
-
-## United States Legal Compliance
-
-You represent and warrant that (i) You are not located in a country that is subject to the United States government embargo, or that has been designated by the United States government as a "terrorist supporting" country, and (ii) You are not listed on any United States government list of prohibited or restricted parties.
-
-## Severability and Waiver
-
-### Severability
-
-If any provision of these Terms is held to be unenforceable or invalid, such provision will be changed and interpreted to accomplish the objectives of such provision to the greatest extent possible under applicable law and the remaining provisions will continue in full force and effect.
-
-### Waiver
-
-Except as provided herein, the failure to exercise a right or to require performance of an obligation under these Terms shall not effect a party's ability to exercise such right or require such performance at any time thereafter nor shall the waiver of a breach constitute a waiver of any subsequent breach.
-
-## Translation Interpretation
-
-These Terms and Conditions may have been translated if We have made them available to You on our Service. You agree that the original English text shall prevail in the case of a dispute.
-
-## Changes to These Terms and Conditions
-
-We reserve the right, at Our sole discretion, to modify or replace these Terms at any time. If a revision is material We will make reasonable efforts to provide at least 30 days' notice prior to any new terms taking effect. What constitutes a material change will be determined at Our sole discretion.
-
-By continuing to access or use Our Service after those revisions become effective, You agree to be bound by the revised terms. If You do not agree to the new terms, in whole or in part, please stop using the website and the Service.
-
-## Contact Us
-
-If you have any questions about these Terms and Conditions, You can contact us:
-
-- By email: somecoolemail@domain.com
+Per qualsiasi domanda riguardante questi Termini, ti preghiamo di contattarci a Forgia Labs - https://forgialabs.com - info@forgialabs.com.
