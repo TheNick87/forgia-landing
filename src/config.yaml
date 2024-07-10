@@ -18,7 +18,7 @@ metadata:
   openGraph:
     site_name: 'Forgia Labs'
     images:
-      - url: '~/assets/images/default.png'
+      - url: '~/assets/images/ForgiaLabs-OpenGraph-1200x628.jpg'
         width: 1200
         height: 628
     type: website
