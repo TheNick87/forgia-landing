@@ -165,11 +165,8 @@ export const footerData = {
     { text: 'Privacy Policy', href: getPermalink('/privacy') },
   ],
   socialLinks: [
-    { ariaLabel: 'X', icon: 'tabler:brand-x', href: '#' },
-    { ariaLabel: 'Instagram', icon: 'tabler:brand-instagram', href: '#' },
-    { ariaLabel: 'Facebook', icon: 'tabler:brand-facebook', href: '#' },
-    { ariaLabel: 'RSS', icon: 'tabler:rss', href: getAsset('/rss.xml') },
-    { ariaLabel: 'Github', icon: 'tabler:brand-github', href: 'https://github.com/onwidget/astrowind' },
+    { ariaLabel: 'X', icon: 'tabler:brand-x', href: 'https://x.com/ForgiaLabs', target: '_blank' },
+    { ariaLabel: 'Medium', icon: 'tabler:brand-medium', href: 'https://medium.com/@forgialabs', target: '_blank' },
   ],
   footNote: `
     Forgia Labs &eacute; un brand di Forgia S.r.l. - Via Campi d’Annibale 185, 00040, Rocca di papa (RM) - P.Iva: IT17244451005, REA: RM - 1705619
