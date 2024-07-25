@@ -5,11 +5,11 @@ import Button from '~/components/ui/Button.astro';
 const { inputs, textarea, disclaimer, button = 'Contact us', description = '' } = Astro.props;
 ---
 
-<form>
+<form id="form">
   {
     inputs &&
       inputs.map(
-        ({ type = 'text', name, label = '', autocomplete = 'on', placeholder = '' }) =>
+        ({ type = 'text', name, value, label = '', autocomplete = 'on', placeholder = '' }) =>
           name && (
             <div class="mb-6">
               {label && (
@@ -21,6 +21,7 @@ const { inputs, textarea, disclaimer, button = 'Contact us', description = '' } 
                 type={type}
                 name={name}
                 id={name}
+                value={value}
                 autocomplete={autocomplete}
                 placeholder={placeholder}
                 class="py-3 px-4 block w-full text-md rounded-lg border border-gray-200 dark:border-gray-700 bg-white dark:bg-slate-900"
@@ -84,4 +85,55 @@ const { inputs, textarea, disclaimer, button = 'Contact us', description = '' } 
       </div>
     )
   }
+  <div class="mt-3 text-center hidden" id="cu_result">
+    <p class="text-sm text-gray-600 dark:text-gray-400">{description}</p>
+  </div>
 </form>
+<script is:inline>
+  const form = document.getElementById('form');
+  const result = document.getElementById('cu_result');
+
+  form.addEventListener('submit', function(e) {
+      //const formData = new FormData(form);
+      e.preventDefault();
+
+      //console.log(e.target);
+
+      const fData = new FormData(e.target); // Create FormData object
+      //console.log(fData);
+      const object = Object.fromEntries(fData);
+      //console.log(object);
+      const json = JSON.stringify(object);
+  
+      result.classList.remove('hidden');
+      result.innerHTML = "Please wait..."
+  
+      fetch('https://api.web3forms.com/submit', {
+              method: 'POST',
+              headers: {
+                  'Content-Type': 'application/json',
+                  'Accept': 'application/json'
+              },
+              body: json
+          })
+          .then(async (response) => {
+              let json = await response.json();
+              if (response.status == 200) {
+                  result.innerHTML = json.message;
+              } else {
+                  console.log(response);
+                  result.innerHTML = json.message;
+              }
+          })
+          .catch(error => {
+              console.log(error);
+              result.innerHTML = "Something went wrong!";
+          })
+          /*.then(function() {
+              //form.reset();
+              setTimeout(() => {
+                  result.style.display = "none";
+              }, 3000);
+          });*/
+  });
+  </script>
