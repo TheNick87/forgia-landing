@@ -1,6 +1,6 @@
 site:
   name: 'Forgia Labs'
-  site: 'https://astrowind.vercel.app'
+  site: 'https://forgialabs.com'
   base: '/'
   trailingSlash: false
 
