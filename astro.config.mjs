@@ -26,7 +26,7 @@ const whenExternalScripts = (items = []) =>
 
 export default defineConfig({
   site: 'https://forgialabs.com',
-  base: 'forgia-labs',
+  //base: 'forgia-labs',
   
   output: 'static',
 
