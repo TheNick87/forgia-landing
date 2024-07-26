@@ -25,6 +25,8 @@ const whenExternalScripts = (items = []) =>
   hasExternalScripts ? (Array.isArray(items) ? items.map((item) => item()) : [items()]) : [];
 
 export default defineConfig({
+  site: 'https://forgialabs.com',
+  
   output: 'static',
 
   integrations: [

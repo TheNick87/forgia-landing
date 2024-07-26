@@ -7,7 +7,7 @@ import Features2 from '~/components/widgets/Features2.astro';
 import FAQs from '~/components/widgets/FAQs.astro';
 // import Stats from '~/components/widgets/Stats.astro';
 import ContactUs from '~/components/widgets/Contact.astro';
-import HeroText from '~/components/widgets/HeroText.astro';
+//import HeroText from '~/components/widgets/HeroText.astro';
 import Brands from '~/components/widgets/Brands.astro';
 
 const metadata = {
@@ -23,12 +23,12 @@ const metadata = {
     actions={[
       {
         variant: 'primary',
-        text: 'Get template',
-        href: 'https://github.com/onwidget/astrowind',
-        target: '_blank',
-        icon: 'tabler:download',
+        text: 'Contattaci!',
+        href: '#form',
+        //target: '_blank',
+        icon: 'tabler:brand-messenger',
       },
-      { text: 'Learn more', href: '#features' },
+      /* { text: 'Learn more', href: '#features' },*/
     ]}
     image={{ src: '~/assets/images/Hero-Forgia.webp', alt: 'Forgia Labs - Al servizio della sostenibilità' }}
   >
@@ -83,6 +83,7 @@ const metadata = {
   <!-- Services Widget -->
 
   <Features2
+    id="servizi"
     title="Servizi"
     subtitle="Questi sono i nostri servizi"
     columns={3}
@@ -163,6 +164,7 @@ const metadata = {
 
 
   <Features2
+    id="mission"
     title="La nostra missione"
     subtitle="Non solo rendere l'innovazione più sostenibile a livello ambientale. Compieremo il prossimo vero passo avanti come specie quando troveremo modi per utilizzare le nuove tecnologie che abbiano un impatto positivo sull'intero ecosistema naturale. Diamo il nostro supporto a startup, imprese sociali e iniziative associative che si impegnano nella ricerca di nuovi modelli socio-economici e tecnologici improntati ad una maggiore sostenibilità sociale, ambientale e, solo infine, economica."
   >
@@ -177,6 +179,7 @@ const metadata = {
   <!-- Brands Widget ****************** -->
 
   <Brands
+    id="partner"
     title="Partnerships & Collaborations"
     subtitle="Questi sono i partner che giorno dopo giorno supportano con entusiasmo il nostro lavoro"
     icons={[]}
@@ -213,6 +216,7 @@ const metadata = {
   <!-- FAQs Widget ******************* -->
 
   <FAQs
+    id="faq"
     title="Frequently Asked Questions"
     subtitle="Rispondiamo ad alcune domande che ci ponete di frequente."
     tagline="FAQs"
@@ -243,12 +247,10 @@ const metadata = {
 
   <!-- HeroText Widget ******************* -->
 
-  <HeroText tagline="Contact" title="Let's Connect!" />
-
   <ContactUs
     id="form"
-    title="Drop us a message today!"
-    subtitle="For quicker answers, explore our FAQs section. You may find the solution you're looking  for right there! If not, our support team is delighted to help you."
+    title="Entriamo in contatto!"
+    subtitle="Manda un breve messaggio con la tua richiesta."
     inputs={[
       {
         type: 'text',
@@ -271,9 +273,9 @@ const metadata = {
     }}
     disclaimer={{
       label:
-        'By submitting this contact form, you acknowledge and agree to the collection of your personal information.',
+        'Inviando questo form di contatto acconsenti ed accetti che salviamo i tuoi dati.',
     }}
-    description="Our support team typically responds within 24 business hours."
+    description="Ti risponderemo entro 72 ore."
   />
 
 
