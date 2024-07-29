@@ -20,7 +20,7 @@ export const headerData = {
       href: '#mission'
     },
   ],
-  actions: [{ text: 'Contattaci!', href: '#form' }],
+  actions: [{ text: 'Contattaci', href: '#form' }],
 };
 
 export const footerData = {
